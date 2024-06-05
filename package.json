@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JSON 스키마에 대해서 알아보는 시간을 가집니다.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
